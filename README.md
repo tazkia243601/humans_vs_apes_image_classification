@@ -25,5 +25,5 @@ for the humans i used a free stock image site: [unsplash](https://unsplash.com/)
 it is very good the accuracy is 0.975 and the validation accuracy is 0.95. the neural network differenciates between white humans male and female and gorillas with a 0.999 probability
 
 ```
-i have only trained the neural network on white adults and children and gorillas. i need to collect other races of humans which i will train the neural network soon
+i have only trained the neural network on white adults and children and gorillas. i need to collect other races of humans which i will train the neural network soon.
 ```
