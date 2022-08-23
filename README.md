@@ -19,7 +19,11 @@ i understand basic neural network code like what does what and neural network th
   
 ## how did you collect the data/where did you get the data from
 for the apes i screenshotted pictures from [alarmy stock photo](https://www.alamy.com/) as it was very hard to find free ape pictures.
-for the humans i used a free stock image site: [unsplash](https://unsplash.com/). 
+for the humans i used a free stock image site: [unsplash](https://unsplash.com/). for each group there is 100 images split 80% training and 20& validation
 
 ## talk about how good your machine learning model is
-it is very good the 
+it is very good the accuracy is 0.975 and the validation accuracy is 0.95. the neural network differenciates between white humans male and female and gorillas with a 0.999 probability
+
+```
+i have only trained the neural network on white adults and children and gorillas. i need to collect other races of humans which i will train the neural network soon
+```
